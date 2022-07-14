@@ -24,5 +24,6 @@ int main() {
 
     std::cout << "(" << rx << "; " << ry << "; " << rz << ")";
 
+    system("pause");
     return 0;
 }
